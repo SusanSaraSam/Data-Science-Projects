@@ -1,0 +1,2 @@
+For this project, I have used historical weather data  of Toronto from 2009 -2022 from https://toronto.weatherstats.ca/
+Visualization using matplotlib, seaborn and plotly have been done on this dataset.
